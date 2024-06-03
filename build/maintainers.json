@@ -256,9 +256,6 @@
   "/abskoop/nsfw": [
     "zhenhappy"
   ],
-  "/academia/topic/:interest": [
-    "K33k0"
-  ],
   "/accessbriefing/:category{.+}?": [
     "nczitzk"
   ],
@@ -1434,9 +1431,6 @@
     "zoenglinghou",
     "nczitzk"
   ],
-  "/dataguidance/news": [
-    "harveyqiu"
-  ],
   "/dayanzai/:category/:fulltext?": [],
   "/dbaplus/": [
     "cnkmmk"
@@ -1861,9 +1855,6 @@
   ],
   "/eventernote/actors/:name/:id": [
     "KTachibanaM"
-  ],
-  "/eztv/imdb/:imdbid?": [
-    "whitecode"
   ],
   "/f-droid/apprelease/:app": [
     "garywill"
@@ -3173,9 +3164,6 @@
   "/javdb/tags/:query?/:category?": [
     "nczitzk"
   ],
-  "/javdb/video_codes/:code/:filter?": [
-    "sgpublic"
-  ],
   "/javlibrary/videos/bestrated/:language?/:mode?": [],
   "/javlibrary/bestrated/:language?/:mode?": [],
   "/javlibrary/bestreviews/:language?/:mode?": [
@@ -4154,9 +4142,7 @@
   "/nowcoder/schedule/:propertyId?/:typeId?": [
     "junfengP"
   ],
-  "/npm/package/:name{(@[a-z0-9-~][a-z0-9-._~]*/)?[a-z0-9-~][a-z0-9-._~]*}": [
-    "Fatpandac"
-  ],
+  "/npm/package/:name{(@[a-z0-9-~][a-z0-9-._~]*/)?[a-z0-9-~][a-z0-9-._~]*}": [],
   "/npr/:endpoint?": [
     "bennyyip"
   ],
@@ -4637,12 +4623,6 @@
   "/ps/trophy/:id": [
     "DIYgod"
   ],
-  "/psyche/topic/:topic": [
-    "emdoe"
-  ],
-  "/psyche/type/:type": [
-    "emdoe"
-  ],
   "/pts/curations": [
     "nczitzk"
   ],
@@ -4653,9 +4633,6 @@
   ],
   "/pubmed/trending/:filters?": [
     "nczitzk"
-  ],
-  "/pubscholar/explore/:category?/:keyword?": [
-    "TonyRL"
   ],
   "/pumc/mdadmission": [
     "nczitzk"
